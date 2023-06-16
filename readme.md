@@ -12,3 +12,4 @@
 ScreenShot Of Project:
 ![image](https://github.com/ismartboi-07/Password_Generator/assets/136259634/4c184ec6-2162-439d-900e-bb8e6a6d1032)
 
+<br><img src="https://user-images.githubusercontent.com/136259634/245551159-6bc56ad8-d6e1-47f9-9c6b-73fc86fe6b83.png" alt="Eye" width="30" height="30" /> [**`Follow Me On Github`**](https://github.com/ismartboi-07)
